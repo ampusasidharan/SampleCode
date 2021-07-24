@@ -1,0 +1,9 @@
+INFO  | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:11) - Hello World
+INFO  | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:14) - This will be printed on info
+WARN  | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:15) - This will be printed on warning
+ERROR | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:16) - This will be printed on error
+FATAL | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:17) - This will be printed on fatal
+INFO  | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:18) - Appending string: Hello, World.
+INFO  | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:21) - info - printing
+ERROR | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:22) - error - printing
+FATAL | 2021-07-24 13:54:16 | [main] logging.LoggingSample (LoggingSample.java:23) - fatal - printing
